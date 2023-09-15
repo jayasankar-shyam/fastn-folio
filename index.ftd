@@ -1,7 +1,8 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: jayasankar-shyam.github.io/fastn-folio/lib
-
+-- import: fastnui.trizwit.com/UI-Components/Contact/contact-3
+-- import: fastnui.trizwit.com/UI-Components/Alert/alert
 -- lib.page:
 
 -- lib.header:
@@ -15,13 +16,23 @@ cta-text-2-url: index.html
 cta-text-3-url: index.html
 
 -- hero-1.hero-1: I'm Jayasankar Shyam
-cta-button-1: Resume
-link-1: https://www.resume.com/
-cta-button-2: Schedule Meeting
-link-2: https://calendly.com/
+cta-button-1: Profiles
+link-1: https://www.jayasankar.tech/profiles
+cta-button-2: My Website
+link-2: https://www.jayasankar.tech
 cover: $assets.files.assets.inssq.png
 
 I am pursuing my B.Tech degree in Artificial Intelligence and Data Science at SJCET Palai.I am a tech enthusiast aspiring to learn a lot in the field of Artificial Intelligence.I like to explore the world of coding & programming.Currently I'm learning Python,Java,C,Javascript and React as well.
 
+-- contact-3.contact-3: Send a Message
+address: Moolackattu, Cheruvally, Kottayam , Kerala, India
+email: jayasankarshyam@gmail.com
+phone: 9400888318
+facebook: $assets.files.images.Footer.facebook.svg
+twitter: $assets.files.images.Footer.twitter.svg
+instagram: $assets.files.images.Footer.instagram.svg
+linkedin: $assets.files.images.Footer.linkedin.svg
+cta-button: Submit
+cta-link:
 
 -- end: lib.page
